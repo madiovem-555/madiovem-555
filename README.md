@@ -70,7 +70,7 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 ![eslint](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-eslint.svg)
 ![prettier](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-prettier.svg)
 ![vitest](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vitest.svg)
-![vscode](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vscode.svg)
+![antigravity](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
 
 </div>
 
@@ -107,4 +107,4 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 </div>
 
-# madiovem-555
+### md-555-37
