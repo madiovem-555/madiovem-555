@@ -70,9 +70,17 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 ![eslint](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-eslint.svg)
 ![prettier](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-prettier.svg)
 ![vitest](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vitest.svg)
-![antigravity](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
 
 </div>
+
+---
+
+## IDE que estou usando
+
+![antigravity](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
+![vscode](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vscode.svg)
+
+depois crio um pro cursor
 
 ---
 
