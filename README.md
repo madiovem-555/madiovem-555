@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://icl-ashy.vercel.app/api/svg/banner/capa-10.svg)
+![Banner](https://galeria-mg-555-37.vercel.app/api/svg/banner/capa-10.svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
   
-![Visitantes](https://icl-ashy.vercel.app/api/visitors/md-555-37/badge.svg?label=visitantes)
+![Visitantes](https://galeria-mg-555-37.vercel.app/api/visitors/mg-555-37/badge.svg?label=visitantes)
 
 </div>
 
@@ -21,41 +21,44 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 ## 🚀 Tecnologias & Ferramentas
 
 ### Frontend
+
 <div align="center">
   
-![HTML](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-html.svg)
-![CSS](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-css.svg)
-![Tailwind CSS](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-tailwind.svg)
-![JavaScript](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-javascript.svg)
-![TypeScript](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-typescript.svg)
-![React](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-react.svg)
-![Next.js](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-nextjs.svg)
+![HTML](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-html.svg)
+![CSS](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-css.svg)
+![Tailwind CSS](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-tailwind.svg)
+![JavaScript](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-javascript.svg)
+![TypeScript](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-typescript.svg)
+![React](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-react.svg)
+![Next.js](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-nextjs.svg)
 
 </div>
 
 ### Backend
+
 <div align="center">
   
-![nodejs](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-nodejs.svg)
-![Express](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-express.svg)
-![python](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-python.svg)
-![php](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-php.svg)
-![mongodb](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-mongodb.svg)
-![mysql](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-mysql.svg)
-![PostgreSQL](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
-![SQLite](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-sqlite.svg)
-![firebase](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-firebase.svg)
-![Supabase](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-supabase.svg)
+![nodejs](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-nodejs.svg)
+![Express](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-express.svg)
+![python](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-python.svg)
+![php](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-php.svg)
+![mongodb](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-mongodb.svg)
+![mysql](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-mysql.svg)
+![PostgreSQL](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
+![SQLite](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-sqlite.svg)
+![firebase](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-firebase.svg)
+![Supabase](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-supabase.svg)
 
 </div>
 
 ### DevOps & Deploy
+
 <div align="center">
   
-![Vercel](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vercel.svg)
-![Cloudflare](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
-![Fly.io](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-fly.svg)
-![Linux](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-linux.svg)
+![Vercel](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-vercel.svg)
+![Cloudflare](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
+![Fly.io](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-fly.svg)
+![Linux](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-linux.svg)
 
 </div>
 
@@ -63,14 +66,14 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 <div align="center">
   
-![Git](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
-![GitHub](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
-![GitHub Actions](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
-![docker](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-docker.svg)
-![npm](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-npm.svg)
-![eslint](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-eslint.svg)
-![prettier](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-prettier.svg)
-![vitest](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vitest.svg)
+![Git](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
+![GitHub](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
+![GitHub Actions](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
+![docker](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-docker.svg)
+![npm](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-npm.svg)
+![eslint](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-eslint.svg)
+![prettier](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-prettier.svg)
+![vitest](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-vitest.svg)
 
 </div>
 
@@ -80,9 +83,9 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 <div align="center">
 
-![antigravity](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
-![vscode](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vscode.svg)
-![cursor](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-cursor.svg)
+![antigravity](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
+![vscode](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-vscode.svg)
+![cursor](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-cursor.svg)
 
 </div>
 
@@ -92,11 +95,11 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 <div align="center">
   
-<a href="https://icl-ashy.vercel.app">
-  <img src="https://icl-ashy.vercel.app/api/github-stats/md-555-37?theme=ocean" width="400" alt="Estatísticas do GitHub">
+<a href="https://galeria-mg-555-37.vercel.app">
+  <img src="https://galeria-mg-555-37.vercel.app/api/github-stats/mg-555-37?theme=ocean" width="400" alt="Estatísticas do GitHub">
 </a>
-<a href="https://icl-ashy.vercel.app">
-  <img src="https://icl-ashy.vercel.app/api/github-langs/md-555-37?theme=ocean" width="400" alt="Linguagens mais utilizadas">
+<a href="https://galeria-mg-555-37.vercel.app">
+  <img src="https://galeria-mg-555-37.vercel.app/api/github-langs/mg-555-37?theme=ocean" width="400" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
@@ -109,8 +112,8 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
   Voces sabem que podem conversar comigo diretamente né?
 
-[![Gmail](https://icl-ashy.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
-[![WhatsApp](https://icl-ashy.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
+[![Gmail](https://galeria-mg-555-37.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
+[![WhatsApp](https://galeria-mg-555-37.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 </div>
 
 ---
@@ -121,4 +124,4 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 </div>
 
-### md-555-37
+### mg-555-37
