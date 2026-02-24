@@ -6,24 +6,26 @@
 
 ---
 
-# 👋 Bem-vindo ao meu perfil!
-
 <div align="center">
-  
+
 ![Visitantes](https://galeria-mg-555-37.vercel.app/api/visitors/mg-555-37/badge.svg?label=visitantes)
 
 </div>
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias: codar no fluxo, experimentar, errar, aprender e explorar possibilidades sem pressão. Aqui publico meus estudos de TI e projetos pessoais. Quero descobrir até onde consigo ir apenas codando, seguindo a vibe e testando meus próprios limites. Se, no caminho, eu ganhar mais experiência, repertório e histórias para contar, melhor ainda.
+Desenvolvedor independente com foco em aprendizado contínuo e experimentação prática. Utilizo este repositório como laboratório pessoal — um espaço para explorar tecnologias, consolidar conhecimentos e documentar a evolução dos meus projetos.
+
+Meu interesse principal está na construção de soluções web completas, do frontend ao backend, com atenção à qualidade do código e às boas práticas de desenvolvimento. Acredito que a consistência e a curiosidade são os principais motores do crescimento técnico.
+
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
 ### Frontend
 
 <div align="center">
-  
+
 ![HTML](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-html.svg)
 ![CSS](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-css.svg)
 ![Tailwind CSS](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-tailwind.svg)
@@ -37,7 +39,7 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 ### Backend
 
 <div align="center">
-  
+
 ![nodejs](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-nodejs.svg)
 ![Express](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-express.svg)
 ![python](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-python.svg)
@@ -54,7 +56,7 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 ### DevOps & Deploy
 
 <div align="center">
-  
+
 ![Vercel](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-vercel.svg)
 ![Cloudflare](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
 ![Fly.io](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-fly.svg)
@@ -65,7 +67,7 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 ### Ferramentas de Desenvolvimento
 
 <div align="center">
-  
+
 ![Git](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
 ![GitHub](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
 ![GitHub Actions](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
@@ -77,23 +79,22 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 </div>
 
----
-
-## IDE's que estou usando
+### Ambiente de Desenvolvimento
 
 <div align="center">
 
 ![antigravity](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
 ![vscode](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-vscode.svg)
+![cursor](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-cursor.svg)
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
-  
+
 <a href="https://galeria-mg-555-37.vercel.app">
   <img src="https://galeria-mg-555-37.vercel.app/api/github-stats/mg-555-37?theme=neon" width="400" alt="Estatísticas do GitHub">
 </a>
@@ -107,16 +108,11 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 ## 📫 Contato
 
+Aberto a trocar ideias, colaborações e feedbacks.
+
 <div align="center">
 
 [![Gmail](https://galeria-mg-555-37.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
 [![WhatsApp](https://galeria-mg-555-37.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
-</div>
-
----
-
-<div align="center">
-
-**Obrigado por visitar meu perfil!**
 
 </div>
